@@ -1,0 +1,22 @@
+/*
+.tableTitle 		{ width:760px; }
+.listTableTabber 	{ width:760px; }
+.listTable			{ width:760px; }
+.mainBox 			{ width:760px; }
+
+html>body .tableTitle { width:754px; }
+html>body .mainBox	{ width:756px; }
+.tableInfo			{ width:750px; }
+
+*/
+.tableTitle 		{ width:860px; }
+.listTableTabber 	{ width:860px; }
+.listTable			{ width:860px; }
+.mainBox 			{ width:860px; }
+
+html>body .tableTitle { width:854px; }
+html>body .mainBox	{ width:856px; }
+html>body .flightShowBoxHeader { width: 850px!important; }
+html>body .flightShowBox { width: 862px!important; }
+.tableInfo			{ width:850px; }
+
